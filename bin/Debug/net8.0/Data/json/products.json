@@ -1,0 +1,26 @@
+[
+  {
+    "itemNumber": "1",
+    "productName": "Smör",
+    "image": "Smör.jpg",
+    "description": "Animaliskt fett som är fast vid rumstemperatur och flytande vid 37 grader."
+  },
+  {
+    "itemNumber": "2",
+    "productName": "Socker",
+    "image": "Socker.jpg",
+    "description": "Pulverformigt socker."
+  },
+  {
+    "itemNumber": "3",
+    "productName": "Jäst",
+    "image": "Jäst.jpg",
+    "description": "Jäsningsmedel för matvaror."
+  },
+  {
+    "itemNumber": "4",
+    "productName": "Vetemjöl",
+    "image": "Vetemjöl.jpg",
+    "description": "Durumvete."
+  }
+]

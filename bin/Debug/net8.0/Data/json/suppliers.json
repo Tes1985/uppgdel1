@@ -1,0 +1,29 @@
+[
+  {
+    "supplierName": "Skogaholms",
+    "contactPerson": "Skog Holm",
+    "supplierAddress": "Skogsgatan 1",
+    "supplierCity": "Skogaholm",
+    "supplierZipcode": "12345",
+    "supplierPhone": "040321123",
+    "email": "skog.holm@skogaholm.se"
+  },
+  {
+    "supplierName": "Göteborgs",
+    "contactPerson": "Göte Borg",
+    "supplierAddress": "Göteborgsgatan 1",
+    "supplierCity": "Göteborg",
+    "supplierZipcode": "54321",
+    "supplierPhone": "031123456",
+    "email": "gote.borg@goteborg.se"
+  },
+  {
+    "supplierName": "Stockholms",
+    "contactPerson": "Stock Holm",
+    "supplierAddress": "Stockholmsgatan 1",
+    "supplierCity": "Stockholm",
+    "supplierZipcode": "67890",
+    "supplierPhone": "081234567",
+    "email": "stock.holm@stockholm.se"
+  }
+]
