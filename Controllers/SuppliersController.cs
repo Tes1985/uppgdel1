@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using uppgdel1.Data;
+using dagnysbageri.Data;
 
-namespace uppgdel1.Controllers;
+namespace dagnysbageri.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

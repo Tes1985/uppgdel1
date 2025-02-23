@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "itemNumber": "CD123",
+      "productName": "Blåbärspaj",
+      "eachPrice": 25,
+      "weight": 300,
+      "packAmount": 2,
+      "manufactureDate": "2025-02-22",
+      "bestBeforeDate": "2025-03-01"
+    },
+    {
+      "id": 2,
+      "itemNumber": "CD124",
+      "productName": "Frallor",
+      "eachPrice": 10,
+      "weight": 70,
+      "packAmount": 8,
+      "manufactureDate": "2025-02-21",
+      "bestBeforeDate": "2025-02-28"
+    },
+    {
+      "id": 3,
+      "itemNumber": "CD125",
+      "productName": "Vaniljkräm",
+      "eachPrice": 18,
+      "weight": 250,
+      "packAmount": 5,
+      "manufactureDate": "2025-02-20",
+      "bestBeforeDate": "2025-02-27"
+    }
+  ]
+  

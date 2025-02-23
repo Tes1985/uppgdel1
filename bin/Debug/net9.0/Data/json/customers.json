@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "companyName": "Baker's Delight",
+      "phone": "+46-702345678",
+      "email": "anna.bakery@gmail.com",
+      "contactPerson": "Anna Karlsson"
+    },
+    {
+      "id": 2,
+      "companyName": "Sweet Treats",
+      "phone": "+46-705987654",
+      "email": "contact@sweettreats.se",
+      "contactPerson": "Erik Johansson"
+    },
+    {
+      "id": 3,
+      "companyName": "Pastry World",
+      "phone": "+46-708123456",
+      "email": "info@pastryworld.com",
+      "contactPerson": "Linda Andersson"
+    }
+  ]
+  

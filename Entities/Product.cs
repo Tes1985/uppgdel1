@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace uppgdel1.Entities;
+namespace dagnysbageri.Entities;
 
 public class Product
 {

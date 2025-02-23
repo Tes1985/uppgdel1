@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace uppgdel1.Entities;
+namespace dagnysbageri.Entities;
 
 public class SupplierProduct
 {

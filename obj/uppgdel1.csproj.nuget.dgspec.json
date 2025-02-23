@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#2\\uppgifter-csharp\\uppgdel1\\uppgdel1.csproj": {}
+    "C:\\C#2\\uppgifter-csharp\\Inlämning2\\dagnysbageri\\uppgdel1.csproj": {}
   },
   "projects": {
-    "C:\\C#2\\uppgifter-csharp\\uppgdel1\\uppgdel1.csproj": {
+    "C:\\C#2\\uppgifter-csharp\\Inlämning2\\dagnysbageri\\uppgdel1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#2\\uppgifter-csharp\\uppgdel1\\uppgdel1.csproj",
+        "projectUniqueName": "C:\\C#2\\uppgifter-csharp\\Inlämning2\\dagnysbageri\\uppgdel1.csproj",
         "projectName": "uppgdel1",
-        "projectPath": "C:\\C#2\\uppgifter-csharp\\uppgdel1\\uppgdel1.csproj",
+        "projectPath": "C:\\C#2\\uppgifter-csharp\\Inlämning2\\dagnysbageri\\uppgdel1.csproj",
         "packagesPath": "C:\\Users\\teuta\\.nuget\\packages\\",
-        "outputPath": "C:\\C#2\\uppgifter-csharp\\uppgdel1\\obj\\",
+        "outputPath": "C:\\C#2\\uppgifter-csharp\\Inlämning2\\dagnysbageri\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,22 +47,28 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.efcore.9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -1,10 +1,10 @@
-using uppgdel1.Data;
-using uppgdel1.Entities;
-using uppgdel1.ViewModels;
+using dagnysbageri.Data;
+using dagnysbageri.Entities;
+using dagnysbageri.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace uppgdel1.Controllers;
+namespace dagnysbageri.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

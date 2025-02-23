@@ -1,0 +1,8 @@
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.csproj.AssemblyReference.cache
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.AssemblyInfoInputs.cache
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.AssemblyInfo.cs
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.csproj.CoreCompileInputs.cache
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.MvcApplicationPartsAssemblyInfo.cs
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.MvcApplicationPartsAssemblyInfo.cache
+C:\C#2\uppgifter-csharp\Inlämning del 2\dagnysbageri\obj\Debug\net9.0\dagynsbageri.sourcelink.json
